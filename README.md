@@ -17,7 +17,7 @@ This software patches the authui.dll file on Windows 7 (which is located in the 
 **.NET Framework 4.6.1 or later is required.**
 
 ## Usage
-- Download the right version for your OS (x64 if your OS is 64 bit, x86 if your OS is 32 bit).
+- [Download](https://github.com/Wyse-/authui-patcher/releases) the right release for your OS (x64 if your OS is 64 bit, x86 if your OS is 32 bit).
 - Run the executable file and click the patch button.
 - [Enable custom logon screens](https://www.howtogeek.com/112110/how-to-set-a-custom-logon-screen-background-on-windows-7/), both the regedit and group policy methods will work.
 - Place your custom logon image in `C:\Windows\System32\oobe\info\backgrounds` and name it `backgroundDefault.jpg`, if your image is a .png file just rename it to .jpg, it will work.
