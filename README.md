@@ -1,4 +1,4 @@
-# ![logo](https://i.imgur.com/FE9qmCb.png?1) Authui Patcher
+# ![logo](https://i.imgur.com/BNoyNnJ.png) Authui Patcher
 
 
 ## Screenshots
