@@ -1,0 +1,9 @@
+C:\Users\Wyse\source\repos\authui-patcher\authui-patcher\obj\x86\Debug\authui_patcher.MainForm.resources
+C:\Users\Wyse\source\repos\authui-patcher\authui-patcher\obj\x86\Debug\authui_patcher.Properties.Resources.resources
+C:\Users\Wyse\source\repos\authui-patcher\authui-patcher\obj\x86\Debug\authui-patcher.csproj.GenerateResource.Cache
+C:\Users\Wyse\source\repos\authui-patcher\authui-patcher\obj\x86\Debug\authui-patcher.csproj.CoreCompileInputs.cache
+C:\Users\Wyse\source\repos\authui-patcher\authui-patcher\bin\x86\Debug\authui-patcher.exe.config
+C:\Users\Wyse\source\repos\authui-patcher\authui-patcher\bin\x86\Debug\authui-patcher.exe
+C:\Users\Wyse\source\repos\authui-patcher\authui-patcher\bin\x86\Debug\authui-patcher.pdb
+C:\Users\Wyse\source\repos\authui-patcher\authui-patcher\obj\x86\Debug\authui-patcher.exe
+C:\Users\Wyse\source\repos\authui-patcher\authui-patcher\obj\x86\Debug\authui-patcher.pdb

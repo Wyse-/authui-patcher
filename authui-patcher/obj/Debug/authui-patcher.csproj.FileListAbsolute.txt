@@ -1,0 +1,10 @@
+c:\users\wyse\source\repos\authui-patcher\authui-patcher\obj\Debug\authui-patcher.csprojResolveAssemblyReference.cache
+c:\users\wyse\source\repos\authui-patcher\authui-patcher\obj\Debug\authui_patcher.MainForm.resources
+c:\users\wyse\source\repos\authui-patcher\authui-patcher\obj\Debug\authui_patcher.Properties.Resources.resources
+c:\users\wyse\source\repos\authui-patcher\authui-patcher\obj\Debug\authui-patcher.csproj.GenerateResource.Cache
+c:\users\wyse\source\repos\authui-patcher\authui-patcher\obj\Debug\authui-patcher.csproj.CoreCompileInputs.cache
+c:\users\wyse\source\repos\authui-patcher\authui-patcher\bin\Debug\authui-patcher.exe.config
+c:\users\wyse\source\repos\authui-patcher\authui-patcher\bin\Debug\authui-patcher.exe
+c:\users\wyse\source\repos\authui-patcher\authui-patcher\bin\Debug\authui-patcher.pdb
+c:\users\wyse\source\repos\authui-patcher\authui-patcher\obj\Debug\authui-patcher.exe
+c:\users\wyse\source\repos\authui-patcher\authui-patcher\obj\Debug\authui-patcher.pdb
