@@ -1,10 +1,10 @@
-# ![logo](https://i.imgur.com/BNoyNnJ.png) Authui Patcher
+# ![logo](https://user-images.githubusercontent.com/5454041/56529994-f8a79780-6551-11e9-887d-5787a5576595.png) Authui Patcher
 
 
 ## Screenshots
-![](https://i.imgur.com/gycNgfU.png)
+![unpatched screenshot](https://user-images.githubusercontent.com/5454041/56529894-ce55da00-6551-11e9-828a-f217004a6002.png)
 
-![](https://i.imgur.com/CeIoJGn.png)
+![patched screenshot](https://user-images.githubusercontent.com/5454041/56529906-d4e45180-6551-11e9-843c-3ef6aab07dfb.png)
 
 
 ## Description
